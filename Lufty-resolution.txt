@@ -1,0 +1,3 @@
+I want to start taking web development seriously, and today (05/07/26) is my first day.
+From this day forward, I am fully committed to learning every single day. I will begin by building a strong foundation through The Odin Project. I won't rush the process, I want to trully understand what i'm learning and move at my own pace.
+This repository is where I'll document my progress, keep track of my goals, and remind myself why i started.
